@@ -2,3 +2,4 @@
 	path = test
 	url = https://github.com/newtratip/test.git
 	branch = master
+	ignore = dirty
